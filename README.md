@@ -1,7 +1,10 @@
 # Webpacks
+
+## Description
 AS A developer
 I  createed a notes or code snippets which works with or without an internet connection SO THAT I can reliably retrieve them for later use
 
+## Usage
 - In given web application WHEN I open my application in my editor THEN I am able to see a client server folder structure.
 - WHEN I run `npm run start` from the root directory THEN I my application  start up the backend and serve the client
 -WHEN I run the text editor application from my terminal THEN I my JavaScript files bundled using webpack WHEN I run my webpack plugin THEN I am able to generate HTML file, service worker, and a manifest file
