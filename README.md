@@ -15,8 +15,11 @@ I  createed a notes or code snippets which works with or without an internet con
 -WHEN I deployed to Heroku THEN I  have proper build scripts for a webpack application
 
   ## Screenshot
+  [!Serviceworker]()
+  [!Cache]()
   ## Credit
 - Studty material
 - Tutor Philip Loy
   ## Links
-  
+  Repository- https://github.com/MK0999/webpack
+  Deployed- https://webpack1-1e29fdd1f39d.herokuapp.com/
